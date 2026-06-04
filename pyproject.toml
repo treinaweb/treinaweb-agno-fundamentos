@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "agno>=2.6.11",
+    "chromadb>=1.5.9",
     "openai>=2.40.0",
     "pydotenv>=0.0.7",
     "requests>=2.34.2",
