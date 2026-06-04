@@ -9,4 +9,5 @@ dependencies = [
     "openai>=2.40.0",
     "pydotenv>=0.0.7",
     "requests>=2.34.2",
+    "sqlalchemy>=2.0.50",
 ]
